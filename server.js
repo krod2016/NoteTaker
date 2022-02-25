@@ -1,7 +1,7 @@
 //all connected routes and access routes to html file and api file
 const express = require("express");
-const htmlRoutes = require("./routes/htmlRoutes");
-const apiRoutes = require("./routes/apiRoutes");
+const htmlRoutes = require("./routes/html-routes");
+const apiRoutes = require("./routes/api-routes");
 
 //express launch of localhost webpage
 const app = express();
