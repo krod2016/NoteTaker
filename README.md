@@ -21,7 +21,7 @@ Here is a screenshot of the app in action.
 
 ## Links
 * GitHub: https://github.com/krod2016/NoteTaker
-* Heroku:
+* Heroku: https://intense-wildwood-98710.herokuapp.com/
 
 ## Made by:
 Katrina Rodriguez
